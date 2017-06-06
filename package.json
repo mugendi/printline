@@ -1,0 +1,19 @@
+{
+  "name": "printline",
+  "version": "1.0.0",
+  "description": "Print One Line to console. Works by clearing file so that cursor remains on wone line. Great for printing lots of rapidly changing data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "print",
+    "console",
+    "cursor",
+    "clear",
+    "line",
+    "log"
+  ],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT"
+}
